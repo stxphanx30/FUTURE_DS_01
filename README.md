@@ -9,7 +9,7 @@ reports/analysis_report.md
 
 ## project struture
 
-'''
+```
 
 FUTURE_DS_01/
 │
@@ -33,4 +33,4 @@ FUTURE_DS_01/
 │
 └── README.md
 
-'''
+```
