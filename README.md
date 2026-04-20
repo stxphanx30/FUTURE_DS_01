@@ -28,8 +28,8 @@ FUTURE_DS_01/
 │
 ├── Images/
 │ └── sales_dashboard.png
-│ └── sales_dashboard.png
-│ └── sales_dashboard.png
+│ └── Unit price vs quantity Cleaned.png
+│ └── Unit price vs quantity.png
 │
 └── README.md
 
