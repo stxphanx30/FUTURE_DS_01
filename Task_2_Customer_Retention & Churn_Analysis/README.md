@@ -6,7 +6,7 @@ This project analyzes customer churn behavior in a subscription-based business u
 
 The goal is to identify why customers leave, understand retention patterns, and provide actionable insights to improve customer lifetime value.
 
----
+
 
 ## 🎯 Objectives
 
@@ -15,7 +15,7 @@ The goal is to identify why customers leave, understand retention patterns, and 
 - Understand retention drivers
 - Provide business recommendations to reduce churn
 
----
+
 
 ## 🛠️ Tools Used
 
@@ -23,7 +23,7 @@ The goal is to identify why customers leave, understand retention patterns, and 
 - Power BI — Dashboard visualization
 - Jupyter Notebook — Analysis workflow
 
----
+
 
 ## 📊 Dashboard
 
@@ -62,9 +62,9 @@ Task_2_Customer_Retention & Churn_Analysis/
 │
 └── README.md
 
-'''
+```
 
----
+
 
 ## 🚀 Key Insights
 
@@ -74,7 +74,7 @@ Task_2_Customer_Retention & Churn_Analysis/
 - Electronic check users are more likely to leave
 - Higher monthly charges correlate with higher churn
 
----
+
 
 ## 💡 Business Impact
 
@@ -85,16 +85,16 @@ This analysis helps businesses:
 - Increase customer lifetime value
 - Make data-driven product and growth decisions
 
----
+
 
 ## 📢 Author
 
 Stephane Kibambo
 Aspiring Data Analyst / Data Scientist
 
----
+
 
 ## ⭐ Notes
 
 This project reflects real-world customer retention analysis used in SaaS and subscription-based companies.
-```
+
