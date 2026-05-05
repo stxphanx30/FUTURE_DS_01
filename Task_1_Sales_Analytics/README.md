@@ -9,7 +9,7 @@ reports/analysis_report.md
 
 ## project struture
 
-'''
+```
 
 Task_1_Sales_Analytics/
 │
@@ -33,6 +33,4 @@ Task_1_Sales_Analytics/
 │
 └── README.md
 
-'''
-
-stephane kibambo
+```
